@@ -1,0 +1,22 @@
+{
+  "name": "api-example",
+  "version": "1.0.0",
+  "description": "Ejemplo de API REST para arquitectura y desarrollo de software",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GmaMontero/api-example.git"
+  },
+  "author": "Gonzalo Montero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GmaMontero/api-example/issues"
+  },
+  "homepage": "https://github.com/GmaMontero/api-example#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
